@@ -41,8 +41,8 @@ Ending module. endmodule is a keywords defined in Verilog.
 ## Program:
 ```
 Program to design a Implementation of combinational logic using universal gates-  and verify its truth table in quartus using Verilog programming.
-Developed by: Sowmiya N
-RegisterNumber:  212221230106
+Developed by: A Joans Jay Authers
+RegisterNumber:  212221240019
 ```
 ### NAND Gate:
 ```
